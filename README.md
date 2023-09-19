@@ -1,5 +1,5 @@
 # notas-fiscais
-Streamlit App to view supermarket historic purchases and price history
+Streamlit App to view supermarket historic purchases and monitor the inflation perceived through personal price history
 
 
 # Setup
